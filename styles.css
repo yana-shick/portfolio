@@ -288,9 +288,9 @@ main {
 	grid-template-columns: repeat(auto-fit, minmax(18em, 1fr));
 	grid-gap: 2em;
 }
-.projects__grid .project:nth-child(4) {
+/* .projects__grid .project:nth-child(4) {
 	grid-column: 2;
-}
+} */
 .project {
 	padding: 2em;
 	margin: 0 auto;
